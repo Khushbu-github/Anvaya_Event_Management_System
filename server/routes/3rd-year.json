@@ -1,0 +1,3505 @@
+{
+  "year": 3,
+  "01-02-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "03-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "04-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "05-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "06-02-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "07-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "08-02-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "10-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "11-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "12-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "13-02-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "14-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "15-02-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "17-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "18-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "19-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "20-02-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "21-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "22-02-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "24-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "25-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "26-02-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "27-02-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "28-02-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "01-03-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "03-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "04-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "05-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "06-03-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "07-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "08-03-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "10-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "11-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "12-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "13-03-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "14-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "15-03-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "17-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "18-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "19-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "20-03-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "21-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "22-03-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "24-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "25-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "26-03-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "27-03-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "28-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "29-03-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "31-03-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "01-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "02-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "03-04-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "04-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "05-04-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "07-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "08-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "09-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "10-04-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "11-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "12-04-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "14-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "15-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "16-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "17-04-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "18-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "19-04-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "21-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "22-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "23-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "24-04-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "25-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "26-04-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "28-04-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "29-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "30-04-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "01-05-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "02-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "03-05-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "05-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "06-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "07-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "08-05-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "09-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "10-05-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "12-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "13-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "14-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "15-05-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "16-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "17-05-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "19-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "20-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "21-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "22-05-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "23-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "24-05-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "26-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A1",
+      "room": "Room 502"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "YOGA/PE/NS",
+      "room": null
+    }
+  },
+  "27-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 502"
+    },
+    "12:15-13:15": {
+      "subject": "ARVR Lab A2",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Mini Project-II",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Club/Professional Activities",
+      "room": null
+    }
+  },
+  "28-05-2025": {
+    "09:00-10:00": {
+      "subject": "BDC",
+      "room": "Room 103"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 103"
+    },
+    "11:15-12:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "DL",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "IoT & 5G/RT",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "16:00-17:00": {
+      "subject": "Office Hour",
+      "room": null
+    }
+  },
+  "29-05-2025": {
+    "09:00-10:00": {
+      "subject": "MLOPS (Tutorial)",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "Bio",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "12:15-13:15": {
+      "subject": "BDC Lab",
+      "room": "Room 503"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Institutional Elective (IAI)",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "Preplacement/Skill Development",
+      "room": null
+    }
+  },
+  "30-05-2025": {
+    "09:00-10:00": {
+      "subject": "DL Lab",
+      "room": "Room 502"
+    },
+    "10:00-11:00": {
+      "subject": "DL Lab",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "12:15-13:15": {
+      "subject": "Mini Project-II",
+      "room": null
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "Proctor Meeting",
+      "room": "Room 501"
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  },
+  "31-05-2025": {
+    "09:00-10:00": {
+      "subject": "HPC",
+      "room": "Room 501"
+    },
+    "10:00-11:00": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "11:15-12:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "12:15-13:15": {
+      "subject": "MLOPS",
+      "room": "Room 501"
+    },
+    "13:15-14:00": {
+      "subject": "Lunch Break",
+      "room": null
+    },
+    "14:00-15:00": {
+      "subject": "",
+      "room": null
+    },
+    "15:00-16:00": {
+      "subject": "",
+      "room": null
+    },
+    "16:00-17:00": {
+      "subject": "",
+      "room": null
+    }
+  }
+}
